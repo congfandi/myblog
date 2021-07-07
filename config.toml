@@ -1,0 +1,4 @@
+baseURL = "https://thengoding.com/"
+languageCode = "en-us"
+title = "The Ngoding"
+theme = "dream"
